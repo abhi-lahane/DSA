@@ -9,3 +9,6 @@ while n > 0:
     n = n // 10
 
 print("Sum of digits =", total)
+
+#o/p = Enter a number: 1234
+#      Sum of digits = 10
